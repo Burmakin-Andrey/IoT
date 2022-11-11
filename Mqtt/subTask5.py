@@ -27,7 +27,6 @@ def task5(client, userdata, message):
         min_value = data
     
     if topic == "lab/4881/photo/instant":
-        print("hui")
         
         if data > (min_value + max_value) / 2:
 
